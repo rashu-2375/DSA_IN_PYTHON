@@ -1,0 +1,10 @@
+s = []
+s.append('5')
+s.append('6')
+s.append('2')
+print(s)
+s.pop()
+s.pop()
+s.pop()
+s.pop()
+print(s)
